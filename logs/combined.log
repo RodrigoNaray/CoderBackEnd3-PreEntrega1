@@ -1,0 +1,34 @@
+2024-10-10 20:45:35 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:47:54 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:48:01 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:49:16 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:49:20 [[31merror[39m]: Internal server error
+2024-10-10 20:49:42 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:50:20 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:50:23 [[31merror[39m]: Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-10 20:52:24 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:52:31 [[31merror[39m]: Hola vengo a dar error
+2024-10-10 20:52:56 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:54:11 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:54:51 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:55:01 [[32minfo[39m]: Listening on 8080
+2024-10-10 20:55:05 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-14 22:17:45 [[32minfo[39m]: Listening on 8080
+2024-10-14 22:17:46 [[32minfo[39m]: Listening on 8080
+2024-10-15 00:35:20 [[32minfo[39m]: Listening on 8080
+2024-10-15 15:15:23 [[32minfo[39m]: Listening on 8080
+2024-10-15 15:16:09 [[32minfo[39m]: Listening on 8080
+2024-10-15 20:14:55 [[32minfo[39m]: Listening on 8080
+2024-10-15 20:14:58 [[32minfo[39m]: Listening on 8080
+2024-10-15 20:16:46 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 20:19:26 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:03:24 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:06:51 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:11:25 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:11:37 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 21:19:13 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 21:29:27 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:29:29 [[32minfo[39m]: Listening on 8080
+2024-10-15 21:31:33 [[31merror[39m]: undefined Nuestro error
+2024-10-15 21:32:06 [[31merror[39m]: undefined Nuestro error
+2024-10-15 21:33:16 [[32minfo[39m]: Listening on 8080
