@@ -16,7 +16,7 @@ router.get("/mockingpets", async (req, res) => {
 
 router.get("/mockingusers", async (req, res, next) => {
   try {
-    const users = generateUsersMock(50);
+    const users = await generateUsersMock(50);
     const response = await userServices.createMany(users);
 
     res.status(201).json({ status: "ok", payload: response });
