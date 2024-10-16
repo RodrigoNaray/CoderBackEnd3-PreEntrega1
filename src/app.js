@@ -1,6 +1,6 @@
 import express from "express";
-import mongoose from "mongoose";
 import cookieParser from "cookie-parser";
+import { connectMongoDB } from "./config/mongoDB.config.js";
 
 import router from "./routes/index.js";
 
@@ -10,12 +10,7 @@ import { logger } from "./utils/logger.js";
 const app = express();
 const PORT = process.env.PORT || 8080;
 
-try{
-  mongoose.connect('mongodb://localhost:2017/')
-  console.log("MongoDb connected successfully!");
-}catch(error){
-  console.log(`Error conectando a MongoDB: ${error}`);
-}
+connectMongoDB();
 
 app.use(express.json());
 app.use(cookieParser());
